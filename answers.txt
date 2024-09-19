@@ -6,6 +6,9 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: By analyzing historical patient data, data science can develop models to predict which patients are at risk of developing certain conditions. This can lead to early intervention, personalized treatment plans, and better resource allocation, ultimately improving patient outcomes and reducing healthcare costs.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the complete history with a merge commit, while rebasing rewrites history to create a cleaner, linear timeline.
 
 
 
